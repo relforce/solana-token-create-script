@@ -19,7 +19,7 @@ yarn update
 ```
 
 
-Don't forget to update config before start
+Don't forget to update constants.ts before start
 
 # solana-npx-client-template
 
