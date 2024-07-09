@@ -1,3 +1,11 @@
+# How to
+
+[yarn] to Install Packages
+[yarn start]
+[yarn update] to revoke mintAuthority
+
+Don't forget to update config before start
+
 # solana-npx-client-template
 
 Simple token create
