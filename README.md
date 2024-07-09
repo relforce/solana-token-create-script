@@ -1,8 +1,23 @@
-# How to
+## Quick Start
 
-[yarn] to Install Packages
-[yarn start]
-[yarn update] to revoke mintAuthority
+install dependencies using **yarn**
+
+```sh
+yarn
+```
+
+start creating a token
+
+```sh
+yarn start
+```
+
+revoke authorities
+
+```sh
+yarn update
+```
+
 
 Don't forget to update config before start
 
